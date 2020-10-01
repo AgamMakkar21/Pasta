@@ -36,10 +36,8 @@ Syntax highlighted code block
 
 For more details see [Joshua Weissman's video on fresh pasta ](https://www.youtube.com/watch?v=K6Sf-2cKE0s).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AgamMakkar21/Pasta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+![This is an image of fresh pasta](https://www.google.com/url?sa=i&url=https%3A%2F%2Foldworldgardenfarms.com%2F2020%2F05%2F12%2Feasy-egg-free-homemade-pasta%2F&psig=AOvVaw3IKPa8vQ4A1w9RhNr_Wspf&ust=1601677974079000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCK6se5lOwCFQAAAAAdAAAAABAD)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
