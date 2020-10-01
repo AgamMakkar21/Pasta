@@ -20,10 +20,10 @@ Once the dough is rested feed it throught the pasta roller on it's widest settin
 For more details see [Joshua Weissman's video on fresh pasta ](https://www.youtube.com/watch?v=K6Sf-2cKE0s).
 
 
-<img src="/pasta.JPG" width=300 height=400/>
+<img src="pasta.JPG" width=300 height=400/>
 
 
-<img src="/Pasta_aglio.png" width=300 height=400/>
+<img src="Pasta_aglio.png" width=300 height=400/>
 
 This is one of my favorite pasta dishes called Pasta Aglio e Olio.
 
