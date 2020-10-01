@@ -1,6 +1,6 @@
 ## What is Pasta?
 
-In its bear minimum pasta is a dough made with 00 flour, salt, olive oli, and eggs. However, it is much more than that. It is a way to connect to people who are thousands of miles away from us. It is a way for us to show people love and appreciation. Making pasta takes time and energy, but once doen right anyone who twirls the strand on noodle on a fork and puts them in their mout will love you forever.
+In its bear minimum pasta is a dough made with 00 flour, salt, olive oli, and eggs. However, it is much more than that. It is a way to connect to people who are thousands of miles away from us. It is a way for us to show people love and appreciation. Making pasta takes time and energy, but once done right it can be the best thing ever.
 
 ### How to make fresh pasta
 
