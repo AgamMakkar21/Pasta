@@ -38,5 +38,5 @@ For more details see [Joshua Weissman's video on fresh pasta ](https://www.youtu
 
 
 
-![Pasta!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+![Pasta!](/Pasta/pasta.JPG "Pasta")
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
