@@ -16,27 +16,11 @@ Dump the flour on to a work surface and make a well. Add the salt, crack the egg
 
 Once the dough is rested feed it throught the pasta roller on it's widest setting. The dough should now be elongated. Now fold the dough in thirds like a letter and feed it throught the pasta machine again on the same setting. The folding of the dough is known as laminating. Keep rolling the dough by feeding it through the pasta roller once on each setting; making it gradually thinner. During this process you should keep flouring the sheet of pasta as you think it is getting sticky. Now the pasta sheet should be very thin. Cut the long sheet into segments which are 9 inches long. Then feed each segment throught the pasta cutter making individual noodles of pasta. Repeat this process for all the 9 inch segments of pasta. Now finally we have fresh home made pasta.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Joshua Weissman's video on fresh pasta ](https://www.youtube.com/watch?v=K6Sf-2cKE0s).
 
 
 <img src="/pasta.JPG" width=300 height=400/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is one of my favorite pasta dishes. It is called Pasta Aglio e Olio
+<img src="/Pasta_aglio.png" width=300 height=400/>
