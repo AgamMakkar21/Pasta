@@ -26,3 +26,5 @@ For more details see [Joshua Weissman's video on fresh pasta ](https://www.youtu
 <img src="/Pasta_aglio.png" width=300 height=400/>
 
 This is one of my favorite pasta dishes called Pasta Aglio e Olio.
+
+![My fav dish](/Pasta_aglio.png)
