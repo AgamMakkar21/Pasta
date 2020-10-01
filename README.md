@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## What is Pasta?
 
-You can use the [editor on GitHub](https://github.com/AgamMakkar21/Pasta/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In its bear minimum pasta is a dough made with 00 flour, salt, olive oli, and eggs. However, it is much more than that. It is a way to connect to people who are thousands of miles away from us. It is a way for us to show people love and appreciation. Making pasta takes time and energy, but once doen right anyone who twirls the strand on noodle on a fork and puts them in their mout will love you forever.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
