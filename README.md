@@ -37,6 +37,6 @@ Syntax highlighted code block
 For more details see [Joshua Weissman's video on fresh pasta ](https://www.youtube.com/watch?v=K6Sf-2cKE0s).
 
 
-
+<img src="/pasta.JPG" width=300 height=400/>
 ![Pasta!](/pasta.JPG "Fresh Homemade Pasta" width=300 height=400)
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
